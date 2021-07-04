@@ -1,1 +1,1 @@
-# sentiment_analysis_stocks
+# sentiment analysis on stocks News
