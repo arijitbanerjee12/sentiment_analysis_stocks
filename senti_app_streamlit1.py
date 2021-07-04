@@ -372,8 +372,10 @@ if options == 'Home':
     st.title("About the App")
     st.write("""
             
-    Hi Every one I have created this app to help people to get the sentiments of the market towards the 
-    co
+    Hi Every one I have created this app to help people to get the sentiments of the market for a specific company.
+    We are scraping the news from the Google news and using ML on top of it get the sentiments on from the newsa nd at last 
+    using all the sentiment scores to predict the market sentiments . 
+   
     
     
    
