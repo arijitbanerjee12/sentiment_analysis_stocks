@@ -3,7 +3,6 @@ gnews==0.2.0
 numpy==1.18.1
 streamlit==0.83.0
 beautifulsoup4==4.9.3
-pandas==0.8.1
 requests==2.25.1
 googlesearch-python==1.0.1
 nltk==3.4.5
