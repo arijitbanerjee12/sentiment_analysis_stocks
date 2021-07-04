@@ -1,6 +1,7 @@
 yfinance==0.1.60
 gnews==0.2.0
 numpy==1.18.1
+pandas==0.8.1
 streamlit==0.83.0
 beautifulsoup4==4.9.3
 requests==2.25.1
